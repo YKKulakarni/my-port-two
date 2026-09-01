@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="border-t border-slate-800 bg-slate-950 py-8 text-slate-400"><div className="section-shell flex flex-col justify-between gap-3 text-sm sm:flex-row"><p>© {new Date().getFullYear()} Yalagurappa Kulkarni.</p><p>Built with React, Vite and Tailwind CSS.</p></div></footer>}
